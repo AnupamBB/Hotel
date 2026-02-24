@@ -1,144 +1,167 @@
 {
-  "business": {
-    "name": "Shri Hariman Apartments",
-    "tagline": "Comfortable & Fully Furnished Stay Apartments in Noida",
-    "primaryColor": "#764ba2",
-    "secondaryColor": "#667eea"
-  },
+	"business": {
+		"name": "Shri Hariman Apartments",
+		"tagline": "Comfortable & Fully Furnished Stay Apartments in Noida",
+		"primaryColor": "#764ba2",
+		"secondaryColor": "#667eea"
+	},
 
-  "about": {
-    "subtitle": "About Us",
-    "title": "Comfortable & Fully Furnished Stay Apartments in Noida",
-    "description": "Shri Hariman Apartments offers modern, fully furnished accommodations in Sector 126, Noida. Perfect for working professionals, students, and families.",
-    "banner1": "/assets/images/about-banner-1.png",
-    "banner2": "/assets/images/about-banner-2.jpg",
-    "callout": "Experience unmatched luxury and comfort where every stay becomes a beautiful memory.",
-    "buttonText": "Explore Apartments",
-    "buttonLink": "#rooms",
-    "features": [
-      { "icon": "bed", "text": "Luxury Rooms" },
-      { "icon": "restaurant", "text": "Fine Dining" },
-      { "icon": "leaf", "text": "Peaceful Environment" },
-      { "icon": "security", "text": "24/7 Security" }
-    ]
-  },
-"booking": {
-  "title": "Make a Reservation",
-  "fields": {
-    "name": {
-      "label": "Full Name",
-      "placeholder": "Enter your full name",
-      "requiredMessage": "Please enter your name"
-    },
-    "email": {
-      "label": "Email",
-      "placeholder": "your@email.com",
-      "requiredMessage": "Please enter your email",
-      "invalidMessage": "Please enter a valid email"
-    },
-    "phone": {
-      "label": "Phone Number",
-      "placeholder": "+91 XXXXX XXXXX",
-      "requiredMessage": "Please enter your phone number"
-    },
-    "dates": {
-      "label": "Check-in & Check-out Dates",
-      "requiredMessage": "Please select dates"
-    },
-    "room": {
-      "label": "Room Type",
-      "placeholder": "Select room type",
-      "requiredMessage": "Please select a room type"
-    },
-    "guests": {
-      "label": "Number of Guests",
-      "placeholder": "Select guests",
-      "requiredMessage": "Please select number of guests",
-      "options": [1, 2, 3, 4]
-    },
-    "requests": {
-      "label": "Special Requests",
-      "placeholder": "Any special requirements or requests..."
-    }
-  },
-  "submitText": "Submit Booking Request",
-  "buttonGradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
-},
-"frontpage": {
-  "slides": [
-    "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600",
-    "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=1600",
-    "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1600"
-  ],
-  "welcomeText": "Welcome to",
-  "businessName": "Shri Hariman Apartments",
-  "tagline": "Your Premium Stay in Raipur Khadar, Sector 126, Noida, Uttar Pradesh",
-  "primaryButtonText": "Book Your Stay",
-  "secondaryButtonText": "Explore Rooms",
-  "primaryGradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
-},
+	"about": {
+		"subtitle": "About Us",
+		"title": "Comfortable & Fully Furnished Stay Apartments in Noida",
+		"description": "Shri Hariman Apartments offers modern, fully furnished accommodations in Sector 126, Noida. Perfect for working professionals, students, and families.",
+		"banner1": "/assets/images/about-banner-1.png",
+		"banner2": "/assets/images/about-banner-2.jpg",
+		"callout": "Experience unmatched luxury and comfort where every stay becomes a beautiful memory.",
+		"buttonText": "Explore Apartments",
+		"buttonLink": "#rooms",
+		"features": [
+			{ "icon": "bed", "text": "Luxury Rooms" },
+			{ "icon": "restaurant", "text": "Fine Dining" },
+			{ "icon": "leaf", "text": "Peaceful Environment" },
+			{ "icon": "security", "text": "24/7 Security" }
+		]
+	},
+	"booking": {
+		"title": "Make a Reservation",
+		"fields": {
+			"name": {
+				"label": "Full Name",
+				"placeholder": "Enter your full name",
+				"requiredMessage": "Please enter your name"
+			},
+			"email": {
+				"label": "Email",
+				"placeholder": "your@email.com",
+				"requiredMessage": "Please enter your email",
+				"invalidMessage": "Please enter a valid email"
+			},
+			"phone": {
+				"label": "Phone Number",
+				"placeholder": "+91 XXXXX XXXXX",
+				"requiredMessage": "Please enter your phone number"
+			},
+			"dates": {
+				"label": "Check-in & Check-out Dates",
+				"requiredMessage": "Please select dates"
+			},
+			"room": {
+				"label": "Room Type",
+				"placeholder": "Select room type",
+				"requiredMessage": "Please select a room type"
+			},
+			"guests": {
+				"label": "Number of Guests",
+				"placeholder": "Select guests",
+				"requiredMessage": "Please select number of guests",
+				"options": [1, 2, 3, 4]
+			},
+			"requests": {
+				"label": "Special Requests",
+				"placeholder": "Any special requirements or requests..."
+			}
+		},
+		"submitText": "Submit Booking Request",
+		"buttonGradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+	},
+	"frontpage": {
+		"slides": [
+			"https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600",
+			"https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=1600",
+			"https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1600"
+		],
+		"welcomeText": "Welcome to",
+		"businessName": "Shri Hariman Apartments",
+		"tagline": "Your Premium Stay in Raipur Khadar, Sector 126, Noida, Uttar Pradesh",
+		"primaryButtonText": "Book Your Stay",
+		"secondaryButtonText": "Explore Rooms",
+		"primaryGradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+	},
 
-"amenitiesSection": {
-  "title": "Hotel Amenities",
-  "subtitle": "Modern facilities and services for your convenience",
-  "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-  "items": [
-    { "icon": "WifiOutlined", "title": "Free WiFi", "desc": "High-speed internet access" },
-    { "icon": "CarOutlined", "title": "Free Parking", "desc": "Secure parking area" },
-    { "icon": "CoffeeOutlined", "title": "Restaurant", "desc": "Multi-cuisine dining" },
-    { "icon": "CustomerServiceOutlined", "title": "24/7 Service", "desc": "Always available assistance" },
-    { "icon": "SafetyOutlined", "title": "Security", "desc": "CCTV surveillance system" },
-    { "icon": "ClockCircleOutlined", "title": "Room Service", "desc": "Round the clock service" },
+	"amenitiesSection": {
+		"title": "Hotel Amenities",
+		"subtitle": "Modern facilities and services for your convenience",
+		"gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+		"items": [
+			{ "icon": "WifiOutlined", "title": "Free WiFi", "desc": "High-speed internet access" },
+			{ "icon": "CarOutlined", "title": "Free Parking", "desc": "Secure parking area" },
+			{ "icon": "CoffeeOutlined", "title": "Restaurant", "desc": "Multi-cuisine dining" },
+			{
+				"icon": "CustomerServiceOutlined",
+				"title": "24/7 Service",
+				"desc": "Always available assistance"
+			},
+			{ "icon": "SafetyOutlined", "title": "Security", "desc": "CCTV surveillance system" },
+			{
+				"icon": "ClockCircleOutlined",
+				"title": "Room Service",
+				"desc": "Round the clock service"
+			},
 
-    { "icon": "ThunderboltOutlined", "title": "Power Backup", "desc": "24/7 electricity backup" },
-    { "icon": "InboxOutlined", "title": "Refrigerator", "desc": "In-room fridge available" },
-    { "icon": "HomeOutlined", "title": "Washing Machine", "desc": "Laundry facility provided" },
-    { "icon": "AppstoreOutlined", "title": "Geyser", "desc": "Hot water supply" },
-    { "icon": "AppstoreOutlined", "title": "Furniture", "desc": "Chair, table & comfortable bed" },
-    { "icon": "InboxOutlined", "title": "Water Purifier", "desc": "Clean drinking water" }
-  ]
-},
-"reviewsSection": {
-  "title": "Guest Reviews",
-  "subtitle": "What our guests say about their experience",
-  "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-  "reviews": [
-    {
-      "rating": 5,
-      "comment": "Amazing stay! Very clean rooms and excellent service.",
-      "name": "Rahul Sharma",
-      "date": "January 2025"
-    },
-    {
-      "rating": 4,
-      "comment": "Great location and friendly staff. Highly recommended.",
-      "name": "Priya Verma",
-      "date": "December 2024"
-    },
-    {
-      "rating": 5,
-      "comment": "Comfortable rooms and all amenities were available.",
-      "name": "Amit Singh",
-      "date": "November 2024"
-    }
-  ]
-},
-"contactSection": {
-  "title": "Get In Touch",
-  "subtitle": "We're here to help with your booking and inquiries",
-  "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+			{
+				"icon": "ThunderboltOutlined",
+				"title": "Power Backup",
+				"desc": "24/7 electricity backup"
+			},
+			{
+				"icon": "InboxOutlined",
+				"title": "Refrigerator",
+				"desc": "In-room fridge available"
+			},
+			{
+				"icon": "HomeOutlined",
+				"title": "Washing Machine",
+				"desc": "Laundry facility provided"
+			},
+			{ "icon": "AppstoreOutlined", "title": "Geyser", "desc": "Hot water supply" },
+			{
+				"icon": "AppstoreOutlined",
+				"title": "Furniture",
+				"desc": "Chair, table & comfortable bed"
+			},
+			{ "icon": "InboxOutlined", "title": "Water Purifier", "desc": "Clean drinking water" }
+		]
+	},
+	"reviewsSection": {
+		"title": "Guest Reviews",
+		"subtitle": "What our guests say about their experience",
+		"gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+		"reviews": [
+			{
+				"rating": 5,
+				"comment": "Amazing stay! Very clean rooms and excellent service.",
+				"name": "Rahul Sharma",
+				"date": "January 2025"
+			},
+			{
+				"rating": 4,
+				"comment": "Great location and friendly staff. Highly recommended.",
+				"name": "Priya Verma",
+				"date": "December 2024"
+			},
+			{
+				"rating": 5,
+				"comment": "Comfortable rooms and all amenities were available.",
+				"name": "Amit Singh",
+				"date": "November 2024"
+			}
+		]
+	},
+	"contactSection": {
+		"title": "Get In Touch",
+		"subtitle": "We're here to help with your booking and inquiries",
+		"gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
 
-  "mapEmbedUrl": "https://www.google.com/maps?q=Shri+Hariman+Apartments&output=embed",
+		"mapEmbedUrl": "https://www.google.com/maps?q=Shri+Hariman+Apartments&output=embed",
 
-  "contactInfoTitle": "Contact Information",
+		"contactInfoTitle": "Contact Information",
 
-  "address": "Raipur Khadar, Sector 126, Noida, Uttar Pradesh , India",
-  "phone": "+91 XXXX XXXXXX",
-  "email": "info@hotelbanquesta.com",
-  "checkin": "2:00 PM",
-  "checkout": "11:00 AM",
+		"address": "Raipur Khadar, Sector 126, Noida, Uttar Pradesh , India",
+		"phone": "+91 XXXX XXXXXX",
+		"email": "info@hotelbanquesta.com",
+		"checkin": "2:00 PM",
+		"checkout": "11:00 AM",
 
-  "ctaText": "Make a Reservation"
-}
-
+		"ctaText": "Make a Reservation"
+	}
 }
